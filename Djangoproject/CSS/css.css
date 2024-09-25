@@ -1,0 +1,16 @@
+button:link{
+    color: #6f42c1;
+}
+button:visited{
+    color: #6610f2;
+}
+button:hover{
+    color: #005cbf;
+}
+button:active{
+    color:hotpink;
+}
+
+body{
+    background-color: #6f42c1;
+}
